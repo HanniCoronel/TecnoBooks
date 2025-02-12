@@ -37,4 +37,4 @@ https://hannicoronel.github.io/TecnoBooks/
 ![TecnoBooks Interface mobile first](https://github.com/user-attachments/assets/03a023ba-0688-4731-8c9e-cdc1adcf8452)
 
 
-🖤Desenvolvido/Design por Hanni Coronel🖤
+🖤Desenvolvido por Hanni Coronel🖤
